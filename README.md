@@ -8,14 +8,7 @@
 
 - **Flood Prediction**: As part of the 2024 Kaggle Playground Series, I am developing models to predict the probability of regional flooding. This involves analyzing various environmental and meteorological factors to assess risk and prepare responses.
 
-## 🌱 I’m currently learning:
-- Advanced techniques in Natural Language Processing to further improve algorithm efficiency and accuracy, particularly using spaCy and PyTorch.
-
-## 👯 I’m looking to collaborate on:
-- Projects involving deep learning applications for real-world data, especially in the areas of environmental science and user experience improvements.
-
 ## 📫 How to reach me:
-- Email: [sathya.vrv@gmail.com](mailto:sathya.vrv@gmail.com)
 - LinkedIn: [Sathya Narayanan Balamurugan](https://www.linkedin.com/in/sathya-narayanan-balamurugan/)
 
 ## 💼 Experience Highlights:
