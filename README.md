@@ -13,7 +13,7 @@
 
 ## 💼 Experience Highlights:
 
-- **Data Engineer Intern at Ascend (Apr 2024 - Present):** Engineered and maintained an automated ETL pipeline using Airflow and Databricks, facilitating streamlined data integration from multiple sources into a centralized data warehouse. Developed dynamic Power BI dashboards for real-time data visualization and decision-making, significantly enhancing data accessibility and usability across the organization.
+- **Data Engineer Intern at Ascend (Apr 2024 - June 2024):** Engineered and maintained an automated ETL pipeline using Airflow and Databricks, facilitating streamlined data integration from multiple sources into a centralized data warehouse. Developed dynamic Power BI dashboards for real-time data visualization and decision-making, significantly enhancing data accessibility and usability across the organization.
   
 - **Data Analyst Intern at CoverQuick, Vancouver, BC (Oct 2023 - Dec 2023):** Delivered key insights and improvement suggestions by analyzing data, enhancing services and user’s satisfaction. Enhanced and optimized advanced NLP algorithms, achieving a 20% improvement in matching user resumes to job requirements.
   
