@@ -1,6 +1,6 @@
 # Sathya Narayanan Balamurugan
 
-👋 Hi, I'm Sathya! I'm a Machine Learning Engineer with a robust background in computer science and advanced analytics, currently based in Vancouver, BC. I'm passionate about leveraging deep learning and machine learning skills to enhance business integrity and solve real-world challenges.
+👋 Hi, I'm Sathya! I'm a Data Scientist with a robust background in computer science and advanced analytics, currently based in Vancouver, BC. I'm passionate about leveraging deep learning and machine learning skills to enhance business integrity and solve real-world challenges.
 
 
 ## 📫 How to reach me:
